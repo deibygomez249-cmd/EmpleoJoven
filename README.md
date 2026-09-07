@@ -17,6 +17,9 @@ Conectar jóvenes con empresas mediante perfiles profesionales, validación de h
 
 - Deiby Esteban Gomez Naranjo
 - Andrés Julián Forero Gacha
+- Holman Sgteven Herrera alva
+- Jhon Alexander Correa Velasquez
+- Edwin Mateo Gomez Beltran
 
 ## Tecnologías
 
